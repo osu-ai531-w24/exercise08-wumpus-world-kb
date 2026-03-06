@@ -139,7 +139,7 @@ class TestWumpusWorldAgent(unittest.TestCase):
     make_action_sentence
     """
 
-    def make_action_sentence(self):
+    def test_make_action_sentence(self):
         """
         A WumpusWorldAgent has a make_action_sentence method
         """

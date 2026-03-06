@@ -1,4 +1,4 @@
-# Exercise 9: Wumpus World Part 2, Knowledge Base
+# Exercise 8: Wumpus World Part 2, Knowledge Base
 
 Implement the knowledge-based agent design, and a knowledge base with
 propositional logic.
